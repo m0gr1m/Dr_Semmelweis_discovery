@@ -27,7 +27,7 @@ To determine by statistical methods whether:
 + there is a difference between the mortality rate in the first clinic, where doctors and students delivered babies, and the second clinic, where only midwives did so,
 + the mortality rate decreased significantly in Doctor Semmelweis' clinic after he recommended that the attendants wash their hands. Mandatory hand washing before delivered babies: 1 June 1847. 
 
-## Side goal
+### Side goal
 
 + Better understanding of Python and statistical methods.
 
