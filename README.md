@@ -58,4 +58,6 @@ The true value of the mean is within the given range with 95% confidence: 1.43% 
 
 ## Graphs
 
+<img src="https://i.imgur.com/qSbl8ZZ.png" width="700">
 
+<img src="https://i.imgur.com/5hR7QAZ.png" width="700">
