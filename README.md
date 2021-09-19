@@ -12,6 +12,8 @@
 
 [Yearly deaths by clinic](https://github.com/m0gr1m/Dr_Semmelweis_discovery/blob/main/yearly_deaths_by_clinic.csv) - As above, the database contains information on the number of births and the number of deaths, with additional information on clinic affiliation. The data covers the period from 1841 to 1846 with yearly data.
 
+[Go to the analysis file.](https://github.com/m0gr1m/Dr_Semmelweis_discovery/blob/main/main_analysis.ipynb)
+
 ------
 
 ## Motivation
@@ -30,4 +32,30 @@ To determine by statistical methods whether:
 ### Side goal
 
 + Better understanding of Python and statistical methods.
+
+------
+
+## Summary
+
+**Due to clinic:**
++ Average proportion of deaths in clinic where births were delivered by **doctors and students**: 9.85% <br />
+The true value of the mean is within the given range with 95% confidence: 6.41% - 13.30% 
+
++ Average proportion of deaths in a clinic where births were delivered by **midwives only**: 4.04% <br />
+The true value of the mean is within the given range with 95% confidence: 1.68% - 6.40%
+
+**Due to handwashing:**
++ Average proportion of deaths in Doctor Semmelweis' clinic **before** he recommended that the attendants wash their hands: 10.51% <br />
+The true value of the mean is within the given range with 95% confidence: 8.88% - 12.12% 
+
++ Average proportion of deaths in Doctor Semmelweis' clinic **after** he recommended that the attendants wash their hands: 2.11% <br />
+The true value of the mean is within the given range with 95% confidence: 1.43% - 2.78%
+
+**Final statement:**
++ Statistical tests showed a significant difference between the death rates in the respective cases. Thus, it can be concluded that handwashing significantly reduces the proportion of deaths and that in the clinic where doctors and students delivered, this proportion was significantly higher than in the clinic where only midwives delivered.
+
+------
+
+## Graphs
+
 
